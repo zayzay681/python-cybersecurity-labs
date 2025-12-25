@@ -10,27 +10,26 @@ PowerShell automation scripts
 
 ```text
 cybersecurity-learning-diary/
-## Fundamentals
+**Fundamentals**
 
 Covers basic knowledge required for cybersecurity, including:
 
-## Networking
+**Networking**
 
 Operating systems
 
 Security basics
 
-## Linux
+**Linux**
 
 Focuses on Linux skills used in cybersecurity:
-
-## Terminal commands
+**Terminal commands**
 
 File permissions and system hardening
 
 Bash scripting
 
-## Windows
+**Windows**
 
 Covers Windows operating system skills:
 
@@ -40,7 +39,7 @@ PowerShell scripting
 
 Windows security concepts
 
-## Python
+**Python**
 
 Used for automation and security analysis:
 
@@ -52,7 +51,7 @@ Log analysis
 
 Security-related scripts
 
-## Incident Response
+**Incident Response**
 
 Follows the incident response lifecycle:
 
@@ -64,7 +63,7 @@ Eradication
 
 Recovery
 
-## Security Tools
+**Security Tools**
 
 Hands-on practice with common security tools:
 
@@ -76,7 +75,7 @@ Splunk
 
 TryHackMe labs and notes
 
-## Projects
+**Projects**
 
 Practical work to apply learning:
 
@@ -84,6 +83,6 @@ Small practice labs
 
 Capstone project
 
-## README
+**README**
 
 Main documentation for the repository.
