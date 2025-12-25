@@ -9,6 +9,8 @@ PowerShell automation scripts
 # architechture
 
 cybersecurity-learning-diary/
+
+
 **Fundamentals**
 
 Covers basic knowledge required for cybersecurity, including:
