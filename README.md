@@ -47,6 +47,4 @@ cybersecurity-learning-diary/
 ├── projects/
 │   ├── mini-labs/
 │   └── capstone/
-│
-└── README.md
 ```
