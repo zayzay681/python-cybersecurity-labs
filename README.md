@@ -8,7 +8,6 @@ Threat intelligence API integration
 PowerShell automation scripts
 # architechture
 
-```text
 cybersecurity-learning-diary/
 **Fundamentals**
 
