@@ -7,7 +7,6 @@ SIEM log simulation
 Threat intelligence API integration
 PowerShell automation scripts
 # architechture
-## 🏗️ Project Structure
 
 ```text
 cybersecurity-learning-diary/
