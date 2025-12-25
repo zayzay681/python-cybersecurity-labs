@@ -10,41 +10,80 @@ PowerShell automation scripts
 
 ```text
 cybersecurity-learning-diary/
-│
-├── fundamentals/
-│   ├── networking/
-│   ├── operating-systems/
-│   └── security-basics/
-│
-├── linux/
-│   ├── terminal-commands/
-│   ├── permissions-hardening/
-│   └── bash-scripting/
-│
-├── windows/
-│   ├── cmd-basics/
-│   ├── powershell/
-│   └── windows-security/
-│
-├── python/
-│   ├── basics/
-│   ├── automation/
-│   ├── log-analysis/
-│   └── security-scripts/
-│
-├── incident-response/
-│   ├── detection/
-│   ├── containment/
-│   ├── eradication/
-│   └── recovery/
-│
-├── tools/
-│   ├── nmap/
-│   ├── wireshark/
-│   ├── splunk/
-│   └── tryhackme-notes/
-│
-├── projects/
-│   ├── mini-labs/
-│   └── capstone/
-```
+## Fundamentals
+
+Covers basic knowledge required for cybersecurity, including:
+
+## Networking
+
+Operating systems
+
+Security basics
+
+## Linux
+
+Focuses on Linux skills used in cybersecurity:
+
+## Terminal commands
+
+File permissions and system hardening
+
+Bash scripting
+
+## Windows
+
+Covers Windows operating system skills:
+
+Command Prompt (CMD) basics
+
+PowerShell scripting
+
+Windows security concepts
+
+## Python
+
+Used for automation and security analysis:
+
+Python basics
+
+Automation scripts
+
+Log analysis
+
+Security-related scripts
+
+## Incident Response
+
+Follows the incident response lifecycle:
+
+Detection
+
+Containment
+
+Eradication
+
+Recovery
+
+## Security Tools
+
+Hands-on practice with common security tools:
+
+Nmap
+
+Wireshark
+
+Splunk
+
+TryHackMe labs and notes
+
+## Projects
+
+Practical work to apply learning:
+
+Small practice labs
+
+Capstone project
+
+## README
+
+Main documentation for the repository.
